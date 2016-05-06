@@ -1,0 +1,9 @@
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\bin\Debug\lesson1.exe.config
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\bin\Debug\lesson1.exe
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\bin\Debug\lesson1.pdb
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\obj\Debug\lesson1.exe
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\obj\Debug\lesson1.pdb
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\bin\Debug\Spring.Core.dll
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\bin\Debug\Spring.Data.dll
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\bin\Debug\Common.Logging.dll
+E:\project\MyGit\Spring.Net\01控制反转(基础篇)\lesson1\obj\Debug\lesson1.csprojResolveAssemblyReference.cache
