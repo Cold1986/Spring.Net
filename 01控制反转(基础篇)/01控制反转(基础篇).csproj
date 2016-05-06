@@ -33,13 +33,13 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Common.Logging">
-      <HintPath>..\..\CommonDll\Common.Logging.dll</HintPath>
+      <HintPath>..\CommonDll\Common.Logging.dll</HintPath>
     </Reference>
     <Reference Include="Spring.Core">
-      <HintPath>..\..\CommonDll\Spring.Core.dll</HintPath>
+      <HintPath>..\CommonDll\Spring.Core.dll</HintPath>
     </Reference>
     <Reference Include="Spring.Data">
-      <HintPath>..\..\CommonDll\Spring.Data.dll</HintPath>
+      <HintPath>..\CommonDll\Spring.Data.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
