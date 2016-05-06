@@ -5,6 +5,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "第一阶段：控制反转
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01控制反转(基础篇)", "01控制反转(基础篇)\01控制反转(基础篇).csproj", "{A384DB92-3719-4733-8BE3-5F71E7969D8B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02环境搭建(基础篇)", "02环境搭建(基础篇)\02环境搭建(基础篇).csproj", "{B1896E6D-F998-4872-A26D-9B51BE3B4B84}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,11 +17,16 @@ Global
 		{A384DB92-3719-4733-8BE3-5F71E7969D8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A384DB92-3719-4733-8BE3-5F71E7969D8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A384DB92-3719-4733-8BE3-5F71E7969D8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1896E6D-F998-4872-A26D-9B51BE3B4B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1896E6D-F998-4872-A26D-9B51BE3B4B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1896E6D-F998-4872-A26D-9B51BE3B4B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1896E6D-F998-4872-A26D-9B51BE3B4B84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{A384DB92-3719-4733-8BE3-5F71E7969D8B} = {235F3EFB-EC87-409D-BA69-4B764509294E}
+		{B1896E6D-F998-4872-A26D-9B51BE3B4B84} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 	EndGlobalSection
 EndGlobal
