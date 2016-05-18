@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<objects>
+
+	<object id="Person" type="实现一个简易的IoC框架.Person" />
+
+</objects>

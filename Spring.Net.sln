@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01控制反转(基础篇)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02环境搭建(基础篇)", "02环境搭建(基础篇)\02环境搭建(基础篇).csproj", "{B1896E6D-F998-4872-A26D-9B51BE3B4B84}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03实现一个简易的IoC框架（练习篇）", "03实现一个简易的IoC框架（练习篇）\03实现一个简易的IoC框架（练习篇）.csproj", "{34958881-DD3B-447D-9E9F-F3A58C2FA49E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B1896E6D-F998-4872-A26D-9B51BE3B4B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1896E6D-F998-4872-A26D-9B51BE3B4B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B1896E6D-F998-4872-A26D-9B51BE3B4B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34958881-DD3B-447D-9E9F-F3A58C2FA49E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34958881-DD3B-447D-9E9F-F3A58C2FA49E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34958881-DD3B-447D-9E9F-F3A58C2FA49E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34958881-DD3B-447D-9E9F-F3A58C2FA49E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -28,5 +34,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{A384DB92-3719-4733-8BE3-5F71E7969D8B} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 		{B1896E6D-F998-4872-A26D-9B51BE3B4B84} = {235F3EFB-EC87-409D-BA69-4B764509294E}
+		{34958881-DD3B-447D-9E9F-F3A58C2FA49E} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 	EndGlobalSection
 EndGlobal
