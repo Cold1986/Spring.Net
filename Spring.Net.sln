@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04对象的创建(基础篇
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05容器中对象的作用域(基础篇)", "05容器中对象的作用域(基础篇)\05容器中对象的作用域(基础篇).csproj", "{79DD401F-1997-4CD3-B721-D1A5D0D370AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06依赖注入(应用篇)", "06依赖注入(应用篇)\06依赖注入(应用篇).csproj", "{D4E98C9E-45BF-4EF5-A8ED-6C0B37C02793}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{79DD401F-1997-4CD3-B721-D1A5D0D370AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79DD401F-1997-4CD3-B721-D1A5D0D370AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79DD401F-1997-4CD3-B721-D1A5D0D370AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4E98C9E-45BF-4EF5-A8ED-6C0B37C02793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E98C9E-45BF-4EF5-A8ED-6C0B37C02793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E98C9E-45BF-4EF5-A8ED-6C0B37C02793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E98C9E-45BF-4EF5-A8ED-6C0B37C02793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -49,5 +55,6 @@ Global
 		{34958881-DD3B-447D-9E9F-F3A58C2FA49E} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 		{1A9FA193-AFF9-4F29-91CC-32FEB55F5C1B} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 		{79DD401F-1997-4CD3-B721-D1A5D0D370AA} = {235F3EFB-EC87-409D-BA69-4B764509294E}
+		{D4E98C9E-45BF-4EF5-A8ED-6C0B37C02793} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 	EndGlobalSection
 EndGlobal
