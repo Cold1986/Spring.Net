@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03实现一个简易的IoC�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04对象的创建(基础篇)", "04对象的创建(基础篇)\04对象的创建(基础篇).csproj", "{1A9FA193-AFF9-4F29-91CC-32FEB55F5C1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05容器中对象的作用域(基础篇)", "05容器中对象的作用域(基础篇)\05容器中对象的作用域(基础篇).csproj", "{79DD401F-1997-4CD3-B721-D1A5D0D370AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{1A9FA193-AFF9-4F29-91CC-32FEB55F5C1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A9FA193-AFF9-4F29-91CC-32FEB55F5C1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A9FA193-AFF9-4F29-91CC-32FEB55F5C1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79DD401F-1997-4CD3-B721-D1A5D0D370AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79DD401F-1997-4CD3-B721-D1A5D0D370AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79DD401F-1997-4CD3-B721-D1A5D0D370AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79DD401F-1997-4CD3-B721-D1A5D0D370AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -42,5 +48,6 @@ Global
 		{B1896E6D-F998-4872-A26D-9B51BE3B4B84} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 		{34958881-DD3B-447D-9E9F-F3A58C2FA49E} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 		{1A9FA193-AFF9-4F29-91CC-32FEB55F5C1B} = {235F3EFB-EC87-409D-BA69-4B764509294E}
+		{79DD401F-1997-4CD3-B721-D1A5D0D370AA} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 	EndGlobalSection
 EndGlobal
