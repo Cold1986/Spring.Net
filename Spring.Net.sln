@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07依赖对象的注入(基
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08集合类型的注入(基础篇)", "08集合类型的注入(基础篇)\08集合类型的注入(基础篇).csproj", "{499AE0B8-E30F-468C-956F-1F0A416D909A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09打造简易的依赖注入框架(练习篇)", "09打造简易的依赖注入框架(练习篇)\09打造简易的依赖注入框架(练习篇).csproj", "{E7004294-4299-447D-B78B-3D71E359D053}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{499AE0B8-E30F-468C-956F-1F0A416D909A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{499AE0B8-E30F-468C-956F-1F0A416D909A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{499AE0B8-E30F-468C-956F-1F0A416D909A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7004294-4299-447D-B78B-3D71E359D053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7004294-4299-447D-B78B-3D71E359D053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7004294-4299-447D-B78B-3D71E359D053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7004294-4299-447D-B78B-3D71E359D053}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -70,5 +76,6 @@ Global
 		{D4E98C9E-45BF-4EF5-A8ED-6C0B37C02793} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 		{99AAA6D1-C9A0-4890-BF22-A9D252F22C35} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 		{499AE0B8-E30F-468C-956F-1F0A416D909A} = {235F3EFB-EC87-409D-BA69-4B764509294E}
+		{E7004294-4299-447D-B78B-3D71E359D053} = {235F3EFB-EC87-409D-BA69-4B764509294E}
 	EndGlobalSection
 EndGlobal
