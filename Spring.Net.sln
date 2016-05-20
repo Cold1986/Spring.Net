@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01控制反转(基础篇)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02环境搭建(基础篇)", "02环境搭建(基础篇)\02环境搭建(基础篇).csproj", "{B1896E6D-F998-4872-A26D-9B51BE3B4B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03实现一个简易的IoC框架（练习篇）", "03实现一个简易的IoC框架（练习篇）\03实现一个简易的IoC框架（练习篇）.csproj", "{34958881-DD3B-447D-9E9F-F3A58C2FA49E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03实现一个简易的IoC框架(练习篇)", "03实现一个简易的IoC框架（练习篇）\03实现一个简易的IoC框架(练习篇).csproj", "{34958881-DD3B-447D-9E9F-F3A58C2FA49E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04对象的创建(基础篇)", "04对象的创建(基础篇)\04对象的创建(基础篇).csproj", "{1A9FA193-AFF9-4F29-91CC-32FEB55F5C1B}"
 EndProject
