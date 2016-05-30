@@ -13,7 +13,7 @@ namespace 面向切面编程
     {
         static void Main(string[] args)
         {
-            //1 
+            //1  模块耦合
             ICompanyManager target = new SimpleCompanyManager() { Dao = new CompanyDao(), UserName = "admin1" };
             target.Save();
 
